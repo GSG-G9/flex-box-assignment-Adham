@@ -1,0 +1,38 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    background-color: gray ;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+
+}
+.box{
+    
+    margin: 40px;
+    /* border: 1px black solid; */
+    position: relative;
+    /* height: 400px; */
+    
+}
+img{
+    width: 250px;
+    height: auto;
+    float: left;
+    
+}
+.logo{
+    float: left;
+    position: absolute;
+    background-color: brown;
+    margin-top: 0px;
+}
+ .disc{
+     font-family: ' Nunito Sans';
+     color: whitesmoke ;
+ }
+
